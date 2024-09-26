@@ -14,3 +14,5 @@ Content:
 - lehner24isci_fig1.ncl: code to generate maps in Fig. 1
 - lehner24isci_fig2_fig3_fig4_figS2.m: code to generate Figs. 2, 3, 4, and S2
 - lehner24isci_figS3.m: code to generate Fig. S3
+- various user-built functions needed to run above code
+- /data: post-processed data needed to generate Figs. 2, 3, 4, S2, and S3
